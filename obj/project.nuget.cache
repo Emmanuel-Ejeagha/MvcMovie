@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "hGJjLU6Nchg=",
   "success": true,
   "projectFilePath": "/home/emma/Desktop/MvcMovie/MvcMovie.csproj",
+=======
+  "dgSpecHash": "hbEPvszxYrE=",
+  "success": true,
+  "projectFilePath": "/home/emma/Desktop/MVC/MvcMovie/MvcMovie.csproj",
+>>>>>>> 131e925 (Add: obj dir)
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/home/emma/Desktop/MvcMovie/MvcMovie.csproj",
       "projectName": "MvcMovie",
       "projectPath": "/home/emma/Desktop/MvcMovie/MvcMovie.csproj",
       "packagesPath": "/home/emma/.nuget/packages/",
       "outputPath": "/home/emma/Desktop/MvcMovie/obj/",
+=======
+      "projectUniqueName": "/home/emma/Desktop/MVC/MvcMovie/MvcMovie.csproj",
+      "projectName": "MvcMovie",
+      "projectPath": "/home/emma/Desktop/MVC/MvcMovie/MvcMovie.csproj",
+      "packagesPath": "/home/emma/.nuget/packages/",
+      "outputPath": "/home/emma/Desktop/MVC/MvcMovie/obj/",
+>>>>>>> 131e925 (Add: obj dir)
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/emma/.nuget/NuGet/NuGet.Config"
