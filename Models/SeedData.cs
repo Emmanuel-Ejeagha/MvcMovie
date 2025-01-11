@@ -29,14 +29,14 @@ public static class SeedData
                 },
                 new Movie
                 {
-                    Title = "Ghostbusters ",
+                    Title = "Baby's Day Out ",
                     ReleaseDate = DateTime.Parse("1984-3-13"),
                     Genre = "Comedy",
                     Price = 8.99M
                 },
                 new Movie
                 {
-                    Title = "Ghostbusters 2",
+                    Title = "Ghostbusters ",
                     ReleaseDate = DateTime.Parse("1986-2-23"),
                     Genre = "Comedy",
                     Price = 9.99M
