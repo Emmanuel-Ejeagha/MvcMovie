@@ -48,6 +48,13 @@
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>
+        
 }
     </tbody>
+    <form asp-controller="Movies" asp-action="Index">
+    <p>
+        <label>Title: <input type="text" name="SearchString" /></label>
+        <input type="submit" value="Filter" />
+    </p>
+</form>
 </table>
